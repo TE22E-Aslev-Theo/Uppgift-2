@@ -15,5 +15,7 @@ public class Uppgift2{
 
         System.out.println("Kvoten av tal 1 och tal 2 är " + (tal1 / tal2));
 
+        System.out.println("Resten av 10/3 är " + (10%3));
+        System.out.println("Resten av 9/3 är " + (9%3));
     }
 }
